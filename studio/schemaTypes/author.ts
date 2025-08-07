@@ -26,6 +26,7 @@ export const author = defineType({
         list: [
           { title: 'English', value: 'en' },
           { title: 'Indonesian', value: 'id' },
+          { title: 'Chinese', value: 'zh' },
           // Add more if needed
         ],
       },

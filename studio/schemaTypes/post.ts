@@ -38,6 +38,7 @@ export const post = defineType({
         list: [
           { title: 'English', value: 'en' },
           { title: 'Indonesian', value: 'id' },
+          { title: 'Chinese', value: 'zh' },
         ],
       },
     }),
